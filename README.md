@@ -1,3 +1,3 @@
 # StrategyPattern
-Defines a family of algorithms, encapsulates each one and makes them interchangable.
-It lets the algorithm vary independently from clients that use it.
+1.  Defines a family of algorithms, encapsulates each one and makes them interchangable.
+2.  Lets the algorithm vary independently from clients that use it.
